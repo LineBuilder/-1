@@ -1,1 +1,1 @@
-print("Mary's cosmetic")
+print('황씨가 소리질렀다. "도둑이야". ')
